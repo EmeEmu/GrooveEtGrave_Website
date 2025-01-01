@@ -1,0 +1,27 @@
+{% import "macros.html" as macros %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+    {{ macros::head() }}
+
+    <body>
+        <div id="index-header">
+            <!-- <canvas id="stars"></canvas> -->
+            <h1 class="andromeda-header-text">
+                <a href="{{ config.base_url }}">{{ config.title }}</a>
+            </h1>
+            <span class="header-link-container">
+                {% for link in config.extra.header_links %}
+                <a href="{{ link.url | replace(from='$BASE_URL', to=config.base_url)}}" class="header-link">{{ link.name }}</a>
+                {% endfor %}
+            </span>
+        </div>
+        <div class="content">
+            {% block content %}
+            {% endblock content -%}
+        </div>
+        {{ macros::footer() }}
+    </body>
+</html>
+

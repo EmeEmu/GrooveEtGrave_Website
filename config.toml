@@ -1,0 +1,28 @@
+# The URL the site will be built for
+base_url = "http://groove-et-grave.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# choice of theme
+# theme = "andromeda"
+
+# website title
+title = "Cie Groove & Grave"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+header_links = [
+  { name = "Qui sommes nous ?", url = "$BASE_URL/about" },
+  { name = "Notre Spectacle", url = "$BASE_URL/cordeenchantee" },
+  { name = "Contacts", url = "$BASE_URL/contact" },
+]
+short_title = "Cie G&G"
+# favicon = "/images/favicon.ico"
