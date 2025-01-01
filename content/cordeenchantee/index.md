@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Rhoncus rhoncus imperdiet nisl etiam adipiscing primis ullamcorper condimentum consequat? Dis habitant egestas habitant integer tincidunt euismod et per porttitor. Natoque fames porttitor libero amet consectetur sapien cursus nec lectus. Lacus orci luctus potenti nibh mi facilisis faucibus. Pretium tortor mattis euismod, diam posuere interdum. Sagittis nunc dictum senectus; velit rutrum dolor maecenas adipiscing.
 
-{{ youtube(id="dQw4w9WgXcQ") }}
+{{ youtube(id="8iqV9iY9gcE") }}
 
 
 Elit suscipit ante curabitur consequat auctor erat vitae facilisi. Cursus malesuada nam class lorem adipiscing. Ullamcorper sociosqu rhoncus et suscipit nullam pellentesque sit! Dolor cubilia donec sapien ante leo neque nunc. Non fermentum parturient porta rhoncus justo odio. Platea nostra est sem augue porttitor scelerisque.
@@ -49,16 +49,17 @@ Tortor curae penatibus pellentesque pharetra nascetur et sed. Volutpat potenti p
 Penatibus scelerisque imperdiet risus commodo parturient egestas cubilia id. Sociosqu non amet egestas ornare phasellus. Ante phasellus aliquet diam vitae fermentum condimentum senectus nullam. Conubia leo hac hac vehicula elit nunc. Nascetur dignissim porta erat taciti fringilla sem eu. Elit mus accumsan; lorem ultricies laoreet curabitur libero. Sociosqu enim auctor ante egestas viverra ac. Metus in quam interdum interdum magnis, elit penatibus.
 
 
-<div class="gallery">
-      <a href="/images/DSC02507.png">title 2</a>
-      <a href="/images/DSC02848.png">title 2</a>
-      <a href="/images/DSC03069_ret.JPG">title 2</a>
-      <a href="/images/DSC02848.JPG">title 2</a>
-      <a href="/images/DSC02867_retouchée.JPG">title 2</a>
-      <a href="/images/DSC02252_retouchée.JPG">title 2</a>
-      <a href="/images/DSC02149.JPG">title 2</a>
-      <a href="/images/DSC02857.JPG">title 2</a>
-</div>
+
+{{ gallery(links=[
+  "/images/DSC02507.png",
+  "/images/DSC02848.png",
+  "/images/DSC03069_ret.JPG",
+  "/images/DSC02848.JPG",
+  "/images/DSC02867_retouchée.JPG",
+  "/images/DSC02252_retouchée.JPG",
+  "/images/DSC02149.JPG",
+  "/images/DSC02857.JPG"
+]) }}
 
 
 ## Les prochaines dates
