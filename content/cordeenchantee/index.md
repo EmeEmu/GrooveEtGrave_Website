@@ -13,15 +13,7 @@ Il est bien notre pestacle non ?
 plein de blabla ...
 
 
-<div style="position: absolute; top: 0; right: 10%; text-align: center;">
-  <a href="/cordeenchantee/dossier_LaCordeEnchantee.pdf" target="_blank" style="text-decoration: none; color: inherit; display: inline-block;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="/images/pdf.png" alt="Dossier" style="max-width: 100px; margin-bottom: -15px;">
-      <span style="font-size: 1.5em; font-family: 'Montserrat'; font-weight: bold">Dossier</span>
-    </div>
-  </a>
-</div>
-
+{{ dossier(dossierpath="/cordeenchantee/dossier_LaCordeEnchantee.pdf") }}
 
 
 # Et puis un header
@@ -58,14 +50,14 @@ Penatibus scelerisque imperdiet risus commodo parturient egestas cubilia id. Soc
 
 
 <div class="gallery">
-      <a href="/images/DSC02507.png" data-ngthumb="/images/DSC02507.png">title 2</a>
-      <a href="/images/DSC02848.png" data-ngthumb="/images/DSC02848.png">title 2</a>
-      <a href="/images/DSC03069_ret.JPG" data-ngthumb="/images/DSC03069_ret.JPG">title 2</a>
-      <a href="/images/DSC02848.JPG" data-ngthumb="/images/DSC02848.JPG">title 2</a>
-      <a href="/images/DSC02867_retouchée.JPG" data-ngthumb="/images/DSC02867_retouchée.JPG">title 2</a>
-      <a href="/images/DSC02252_retouchée.JPG" data-ngthumb="/images/DSC02252_retouchée.JPG">title 2</a>
-      <a href="/images/DSC02149.JPG" data-ngthumb="/images/DSC02149.JPG">title 2</a>
-      <a href="/images/DSC02857.JPG" data-ngthumb="/images/DSC02857.JPG">title 2</a>
+      <a href="/images/DSC02507.png">title 2</a>
+      <a href="/images/DSC02848.png">title 2</a>
+      <a href="/images/DSC03069_ret.JPG">title 2</a>
+      <a href="/images/DSC02848.JPG">title 2</a>
+      <a href="/images/DSC02867_retouchée.JPG">title 2</a>
+      <a href="/images/DSC02252_retouchée.JPG">title 2</a>
+      <a href="/images/DSC02149.JPG">title 2</a>
+      <a href="/images/DSC02857.JPG">title 2</a>
 </div>
 
 
