@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Un sous header
 
-{{ image(path="/images/DSC02867_retouchée.JPG") }}
+{{ image(path="/images/DSC02867_retouchée.JPG", width="60%") }}
 
 Rhoncus rhoncus imperdiet nisl etiam adipiscing primis ullamcorper condimentum consequat? Dis habitant egestas habitant integer tincidunt euismod et per porttitor. Natoque fames porttitor libero amet consectetur sapien cursus nec lectus. Lacus orci luctus potenti nibh mi facilisis faucibus. Pretium tortor mattis euismod, diam posuere interdum. Sagittis nunc dictum senectus; velit rutrum dolor maecenas adipiscing.
 
