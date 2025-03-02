@@ -14,7 +14,7 @@ html, body {
 #index-header {
     /* background-color: transparent; */
     background-color: $andromeda-dark;
-    height: 7em;
+    height: 8em;
     margin-bottom: 1em;
     position: relative;
     /* #stars { */
@@ -54,6 +54,7 @@ html, body {
             transition: 0.5s;
             font-size: 1.15em;
             font-family: "Montserrat";
+            white-space: nowrap;
         }
         .header-link:hover {
             color: $andromeda-light-dark;
