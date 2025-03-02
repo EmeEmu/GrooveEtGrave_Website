@@ -21,8 +21,9 @@ highlight_code = false
 
 [extra]
 header_links = [
+  { name = "Accueil", url = "$BASE_URL/" },
   { name = "Qui sommes nous ?", url = "$BASE_URL/about" },
-  { name = "Notre Spectacle", url = "$BASE_URL/cordeenchantee" },
+  { name = "La Corde Enchantée", url = "$BASE_URL/cordeenchantee" },
   { name = "Contacts", url = "$BASE_URL/contact" },
 ]
 short_title = "Cie G&G"
