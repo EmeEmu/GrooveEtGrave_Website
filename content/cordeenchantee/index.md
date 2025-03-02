@@ -1,6 +1,6 @@
 +++
 title = "La Corde Enchantée"
-description = "Un Spectacle Pour Les Enfants"
+description = ""
 
 template = "nice_page.html"
 
