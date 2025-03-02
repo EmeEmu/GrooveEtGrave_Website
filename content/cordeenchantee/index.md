@@ -9,16 +9,10 @@ weight = 1
 date = 2023-04-25
 extra = {header_img = "/images/DSC02149.JPG"}
 +++
-Il est bien notre pestacle non ?  
-plein de blabla ...
-
-
 {{ dossier(dossierpath="/cordeenchantee/dossier_LaCordeEnchantee.pdf") }}
+# Un spectacle jeune public
 
-
-# Et puis un header
-
-et d'autre blabla
+la Corde Enchantée est un spectacle qui s'adresse aux enfants à partir de 6 ans.
 
 > une quote d'un truc **important** dont vous voulez parler
 
