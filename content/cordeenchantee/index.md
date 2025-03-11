@@ -10,37 +10,27 @@ date = 2023-04-25
 extra = {header_img = "/images/DSC02149.JPG"}
 +++
 {{ dossier(dossierpath="/cordeenchantee/dossier_LaCordeEnchantee.pdf") }}
-# Un spectacle jeune public
 
-la Corde Enchantée est un spectacle qui s'adresse aux enfants à partir de 6 ans.
+
+
+
+# La Corde Enchantée, un spectacle jeune public à partir de 6 ans
+ 
+C’est l’histoire de Groovy et Gravy, qui veulent créer un spectacle ensemble. 
+Gravy joue de la contrebasse, et Groovy danse. Elles ont toutes les deux un sacré caractère ! Se mettre d'accord à deux n'est déjà pas facile, il ne manquerait plus que la contrebasse y ajoute son grain de sel en les entrainant dans un nouveau monde: là où les sons et les mouvements s'entre-mêlent et où le fantastique et l’insolite s’invitent. Dès lors, on ne sait plus très bien qui danse et qui fait de la musique, mais au final, est-ce vraiment important ?
 
 > une quote d'un truc **important** dont vous voulez parler
 
-# Long description
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut **ceci est en gras**, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in *et ceci est en italic* voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-## Un sous header
 
-{{ image(path="/images/DSC02867_retouchée.JPG", width="60%") }}
-
-Rhoncus rhoncus imperdiet nisl etiam adipiscing primis ullamcorper condimentum consequat? Dis habitant egestas habitant integer tincidunt euismod et per porttitor. Natoque fames porttitor libero amet consectetur sapien cursus nec lectus. Lacus orci luctus potenti nibh mi facilisis faucibus. Pretium tortor mattis euismod, diam posuere interdum. Sagittis nunc dictum senectus; velit rutrum dolor maecenas adipiscing.
+## Le teaser
 
 {{ youtube(id="8iqV9iY9gcE") }}
 
 
-Elit suscipit ante curabitur consequat auctor erat vitae facilisi. Cursus malesuada nam class lorem adipiscing. Ullamcorper sociosqu rhoncus et suscipit nullam pellentesque sit! Dolor cubilia donec sapien ante leo neque nunc. Non fermentum parturient porta rhoncus justo odio. Platea nostra est sem augue porttitor scelerisque.
-
-En dessous de cette ligne : une barre horizontale
-
 ***
 
-## Un autre sous header
-
-Tortor curae penatibus pellentesque pharetra nascetur et sed. Volutpat potenti pellentesque aptent ad adipiscing luctus. Lacus dolor ligula finibus; laoreet vestibulum gravida lacus congue interdum. Venenatis primis elit vestibulum tempus; mus duis. Est platea interdum turpis nisl pulvinar fermentum pharetra inceptos? Parturient vitae sem sagittis auctor dapibus augue tellus. Sapien est consequat convallis dolor cubilia nisl dictum.
-
-Penatibus scelerisque imperdiet risus commodo parturient egestas cubilia id. Sociosqu non amet egestas ornare phasellus. Ante phasellus aliquet diam vitae fermentum condimentum senectus nullam. Conubia leo hac hac vehicula elit nunc. Nascetur dignissim porta erat taciti fringilla sem eu. Elit mus accumsan; lorem ultricies laoreet curabitur libero. Sociosqu enim auctor ante egestas viverra ac. Metus in quam interdum interdum magnis, elit penatibus.
 
 
 
@@ -56,9 +46,14 @@ Penatibus scelerisque imperdiet risus commodo parturient egestas cubilia id. Soc
 ]) }}
 
 
-## Les prochaines dates
+## Dates passées
 
 |  Date  | Salle | 
 |  ----  | ----- | 
-| **20/01/2002** | La Cigalle | 
-| **23/07/2002** | La Philharmonie | 
+| **16/12/2024** | Maison de la Musique et de la Danse, Bagneux | 
+| **29/11/2024** | Auditorium Antonin Artaud, Ivry-sur-Seine | 
+| **28/11/2024** | Auditorium Antonin Artaud, Ivry-sur-Seine | 
+| **27/11/2024** | Auditorium Antonin Artaud, Ivry-sur-Seine | 
+| **20/06/2024** | Auditorium Antonin Artaud, Ivry-sur-Seine | 
+| **26/05/2024** | Théâtre Colbert, Crosne | 
+ 
