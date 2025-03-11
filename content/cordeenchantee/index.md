@@ -14,12 +14,12 @@ extra = {header_img = "/images/DSC02149.JPG"}
 
 
 
-# La Corde Enchantée, un spectacle jeune public à partir de 6 ans
+# Un spectacle jeune public à partir de 6 ans
  
 C’est l’histoire de Groovy et Gravy, qui veulent créer un spectacle ensemble. 
 Gravy joue de la contrebasse, et Groovy danse. Elles ont toutes les deux un sacré caractère ! Se mettre d'accord à deux n'est déjà pas facile, il ne manquerait plus que la contrebasse y ajoute son grain de sel en les entrainant dans un nouveau monde: là où les sons et les mouvements s'entre-mêlent et où le fantastique et l’insolite s’invitent. Dès lors, on ne sait plus très bien qui danse et qui fait de la musique, mais au final, est-ce vraiment important ?
 
-> une quote d'un truc **important** dont vous voulez parler
+
 
 
 
@@ -29,9 +29,7 @@ Gravy joue de la contrebasse, et Groovy danse. Elles ont toutes les deux un sacr
 {{ youtube(id="8iqV9iY9gcE") }}
 
 
-***
-
-
+## Gallerie
 
 
 {{ gallery(links=[
