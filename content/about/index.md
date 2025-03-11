@@ -8,20 +8,25 @@ template = "nice_page.html"
 extra = {header_img = "/images/DSC03069_ret.JPG"}
 +++
 
-# Nous deux
+# La compagnie
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La compagnie Groove et Grave est une association visant à proposer des spectacles de contrebasse et de danse. 
+
+***
+# Les artistes
+
+## Véronique Robert - Contrebasse
+
+Véronique Robert commence la contrebasse à l'âge de 7 ans. Elle suit des cursus classique et jazz dans différents conservatoires avant de se perfectionner dans le classique. Sa participation aux orchestres Pasdeloup et Lamoureux, entre autres, lui permet de jouer dans plusieurs belles salles parisiennes comme Pleyel, le Théâtre du Châtelet, la Philharmonie. En parallèle du métier de musicienne d'orchestre, Véronique Robert a fait partie de différentes formations allant du théâtre musical au duo avec une chanteuse, en passant par la création de spectacles jeune public. 
+Titulaire du DUMI, Véronique Robert s'intéresse à la transmission et à la pédagogie à travers ses activités au sein des conservatoires, où elle enseigne la contrebasse, et dans les écoles, où elle fait découvrir aux enfants la musique au sens large et la pratique instrumentale grâce à la création d'orchestre à l'école. La contrebasse a toujours été à l'origine d'idées, de créations de projets artistiques divers et variés.
 
 ***
 
-# Véronique
+## Blandine Hipeaux - Danse
 
-Ipsum dolor suscipit at consectetur maecenas penatibus vivamus. Erat fermentum accumsan himenaeos praesent nam molestie vehicula? Etiam feugiat nascetur lorem etiam ad lacinia magna. Rhoncus etiam turpis etiam magnis fermentum cubilia dapibus dui venenatis. Turpis sed mollis fermentum bibendum sem, massa quam? Mauris iaculis consectetur maecenas sociosqu, integer nunc consequat curae vulputate. Blandit pharetra conubia egestas suspendisse sodales. Efficitur praesent nisi nibh; ac dignissim platea.
-
-***
-
-# Blandine
-
-Platea faucibus placerat dictum pretium proin. Feugiat luctus erat congue penatibus, efficitur per magnis pellentesque. Facilisi ultricies suspendisse hac augue rutrum blandit faucibus. At ex convallis libero elit vitae id morbi. Quisque tempus libero lacus pharetra dolor montes et. Vel dignissim morbi semper morbi maximus? Augue ad magna pellentesque laoreet neque mollis ridiculus ridiculus. Netus nisl mus nostra magna laoreet malesuada.
+Blandine Hipeaux se forme en danse classique, contemporaine et jazz au conservatoire de La Rochelle, puis à l’Ecole Nationale de Marseille et au Centre de Danse Rosella Hightower. Cette formation lui permets de danser des œuvres variées du répertoire classique et contemporain.
+Soucieuse de rendre sa pratique utile, elle s’engage ensuite en service civique et créé le projet Mixture de Culture, visant à favoriser les rencontres entre jeunes exilés ou non au travers de pratiques artistiques et sportives. 
+Diplômée d’état en danse classique et contemporaine, elle enseigne depuis 2019 dans différentes  structures dont le conservatoire d’Ivry-sur-Seine et de Bagneux, et danse au sein de la Compagnie Arcane.
+En parallèle, elle continue de se former dans d’autres domaines (contrebasse, chant...) toujours dans l’optique de travailler à la rencontre entre différentes sphères.
 
 ***
