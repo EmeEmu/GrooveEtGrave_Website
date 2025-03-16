@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 weight = 2
-extra = {header_img = "/images/DSC02848.JPG"}
+extra = {header_img = "/images/contact.JPG"}
 +++
 
 # Contact
