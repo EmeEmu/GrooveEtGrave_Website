@@ -35,8 +35,6 @@ Gravy joue de la contrebasse, et Groovy danse. Elles ont toutes les deux un sacr
 {{ gallery(links=[
   "/images/DSC02507.png",
   "/images/DSC02848.png",
-  "/images/DSC03069_ret.JPG",
-  "/images/DSC02848.JPG",
   "/images/DSC02867_retouchée.JPG",
   "/images/DSC02252_retouchée.JPG",
   "/images/DSC02149.JPG",
