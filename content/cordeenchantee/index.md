@@ -7,7 +7,7 @@ template = "nice_page.html"
 weight = 1
 
 date = 2023-04-25
-extra = {header_img = "/images/DSC02149.JPG"}
+extra = {header_img = "/images/mouettes.JPG"}
 +++
 {{ dossier(dossierpath="/cordeenchantee/dossier_LaCordeEnchantee.pdf") }}
 
