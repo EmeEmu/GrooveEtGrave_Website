@@ -5,7 +5,7 @@ weight = 0
 
 template = "nice_page.html"
 
-extra = {header_img = "/images/1ter.jpg"}
+extra = {header_img = "/images/1ter_coupe.jpg"}
 +++
 
 # La compagnie
