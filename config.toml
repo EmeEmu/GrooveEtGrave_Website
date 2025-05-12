@@ -12,7 +12,7 @@ build_search_index = false
 # theme = "andromeda"
 
 # website title
-title = "Cie Groove & Grave"
+title = "Groove & Grave"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -26,5 +26,5 @@ header_links = [
   { name = "La Corde Enchantée", url = "$BASE_URL/cordeenchantee" },
   { name = "Contact", url = "$BASE_URL/contact" },
 ]
-short_title = "Cie G&G"
+short_title = "G&G"
 # favicon = "/images/favicon.ico"
