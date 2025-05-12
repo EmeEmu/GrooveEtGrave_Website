@@ -8,14 +8,6 @@ template = "nice_page.html"
 extra = {header_img = "/images/1ter_coupe.jpg"}
 +++
 
-# La compagnie
-
-La compagnie Groove et Grave est une association visant à proposer des spectacles de contrebasse et de danse. 
-
-
-***
-# Les artistes
-
 ## Véronique Robert - Contrebasse
 
 Véronique Robert commence la contrebasse à l'âge de 7 ans. Elle suit des cursus classique et jazz dans différents conservatoires avant de se perfectionner dans le classique. Sa participation aux orchestres Pasdeloup et Lamoureux, entre autres, lui permet de jouer dans plusieurs belles salles parisiennes comme Pleyel, le Théâtre du Châtelet, la Philharmonie. En parallèle du métier de musicienne d'orchestre, Véronique Robert a fait partie de différentes formations allant du théâtre musical au duo avec une chanteuse, en passant par la création de spectacles jeune public. 
