@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
+
+  <!-- <title>Qui Sommes Nous ?</title> -->
+  <title>Qui Sommes Nous ? - G&amp;G</title>
+  <!-- <title>G&amp;G</title> -->
+  <meta name="description" content="">
+  
+  
+
+  <link rel="stylesheet" href="https://emeemu.github.io/GrooveEtGrave_Website//main.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css" />
+</head>
+
+
+    <body>
+
+        
+
+        <div class="header-image-container">
+            <h1 class="andromeda-header-text">
+                <a href="https:&#x2F;&#x2F;emeemu.github.io&#x2F;GrooveEtGrave_Website&#x2F;">Groove &amp; Grave</a>
+            </h1>
+            <span class="header-link-container">
+                
+                <a href="https:&#x2F;&#x2F;emeemu.github.io&#x2F;GrooveEtGrave_Website&#x2F;&#x2F;" class="header-link">Accueil</a>
+                
+                <a href="https:&#x2F;&#x2F;emeemu.github.io&#x2F;GrooveEtGrave_Website&#x2F;&#x2F;about" class="header-link">Qui sommes nous ?</a>
+                
+                <a href="https:&#x2F;&#x2F;emeemu.github.io&#x2F;GrooveEtGrave_Website&#x2F;&#x2F;cordeenchantee" class="header-link">La Corde Enchantée</a>
+                
+                <a href="https:&#x2F;&#x2F;emeemu.github.io&#x2F;GrooveEtGrave_Website&#x2F;&#x2F;contact" class="header-link">Contact</a>
+                
+            </span>
+            <div class="header-image lozad" data-background-image="https://emeemu.github.io/GrooveEtGrave_Website/images/1ter_coupe.jpg" data-placeholder-background="darkgrey"></div>
+            <div class="text-container">
+                <h1 class="page-title">Qui Sommes Nous ?</h1>
+                <span class="page-description"></span>
+            </div>
+        </div>
+        <div class="body-container">
+            <h2 id="veronique-robert-contrebasse">Véronique Robert - Contrebasse</h2>
+<p>Véronique Robert commence la contrebasse à l'âge de 7 ans. Elle suit des cursus classique et jazz dans différents conservatoires avant de se perfectionner dans le classique. Sa participation aux orchestres Pasdeloup et Lamoureux, entre autres, lui permet de jouer dans plusieurs belles salles parisiennes comme Pleyel, le Théâtre du Châtelet, la Philharmonie. En parallèle du métier de musicienne d'orchestre, Véronique Robert a fait partie de différentes formations allant du théâtre musical au duo avec une chanteuse, en passant par la création de spectacles jeune public.
+Titulaire du DUMI, Véronique Robert s'intéresse à la transmission et à la pédagogie à travers ses activités au sein des conservatoires, où elle enseigne la contrebasse, et dans les écoles, où elle fait découvrir aux enfants la musique au sens large et la pratique instrumentale grâce à la création d'orchestre à l'école. La contrebasse a toujours été à l'origine d'idées, de créations de projets artistiques divers et variés.</p>
+<h2 id="blandine-hipeaux-danse">Blandine Hipeaux - Danse</h2>
+<p>Blandine Hipeaux se forme en danse classique, contemporaine et jazz au conservatoire de La Rochelle, puis à l’Ecole Nationale de Marseille et au Centre de Danse Rosella Hightower. Cette formation lui permets de danser des œuvres variées du répertoire classique et contemporain.
+Soucieuse de rendre sa pratique utile, elle s’engage ensuite en service civique et créé le projet Mixture de Culture, visant à favoriser les rencontres entre jeunes exilés ou non au travers de pratiques artistiques et sportives.
+Diplômée d’état en danse classique et contemporaine, elle enseigne depuis 2019 dans différentes  structures dont le conservatoire d’Ivry-sur-Seine et de Bagneux, et danse au sein de la Compagnie Arcane.
+En parallèle, elle continue de se former dans d’autres domaines (contrebasse, chant...) toujours dans l’optique de travailler à la rencontre entre différentes sphères.</p>
+
+        </div>
+        
+        
+
+        
+<div class="footer-black">
+  <div class="text-block">
+    
+    
+    
+  </div>
+</div>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js"></script>
+<script>
+  // Add lazy loading to all elements
+  const elements = document.querySelectorAll('body *');
+  elements.forEach((element) => {
+    element.classList.add('lozad');
+    element.setAttribute('data-loaded', 'false')
+  });
+  const obs = lozad();
+  obs.observe();
+
+  // Center normal images
+  $("p").each( function(index, element) {
+    const items = $(this)[0].children;
+    if (items.length > 0 && items[0].tagName == 'IMG') {
+      $(this).css("text-align", "center");
+    }
+  } )
+
+  // Gallery setup
+  $(".gallery").each( function( index, element ) {
+    const items = $(this)[0].children.length;
+    if (items == 1) {
+      $(this).nanogallery2({
+        // GALLERY AND THUMBNAIL LAYOUT
+        thumbnailHeight: 'auto', thumbnailWidth: $( window ).width(),
+        thumbnailBorderHorizontal: 1,
+        thumbnailBorderVertical: 1,
+
+        // THUMBNAIL TOOLS & LABEL
+        thumbnailLabel: { display: false, position:'onBottom', hideIcons: true, titleFontSize: '1em', align: 'right', titleMultiLine:true, displayDescription: false},
+
+        // DISPLAY ANIMATION
+        thumbnailDisplayTransition: 'fadeIn',
+        thumbnailDisplayTransitionDuration: 500,
+        thumbnailDisplayInterval: 30,
+
+        // // THUMBNAIL'S HOVER ANIMATION
+        // thumbnailHoverEffect2: 'imageScaleIn90',
+        touchAnimation: true,
+        touchAutoOpenDelay: 800,
+
+        // DEEP LINKING
+        locationHash: false,
+
+        // VIEWER TOOLBAR CONFIG
+        viewerTools:    {
+          topLeft:    'pageCounter',
+          topRight:   'downloadButton, zoomButton, fullscreenButton, closeButton'
+        }   
+      })
+    } else if (items == 2) {
+        $(this).nanogallery2({
+
+          // GALLERY AND THUMBNAIL LAYOUT
+          galleryDisplayMode: 'fullContent',
+          // gallerySorting: 'random',
+          thumbnailHeight: '400', thumbnailWidth: 'auto',
+          thumbnailAlignment: 'center',
+          thumbnailBaseGridHeight: 100,
+          thumbnailL1GutterWidth: 4,
+          thumbnailL1GutterHeight: 4,
+          thumbnailBorderHorizontal: 2,
+          thumbnailBorderVertical: 2,
+
+          // THUMBNAIL TOOLS & LABEL
+          thumbnailLabel: { display: false, position:'onBottom', hideIcons: true, titleFontSize: '1em', align: 'right', titleMultiLine:true, displayDescription: false},
+          
+          // DISPLAY ANIMATION
+          thumbnailDisplayTransition: 'fadeIn',
+          thumbnailDisplayTransitionDuration: 500,
+          thumbnailDisplayInterval: 30,
+
+          // // THUMBNAIL'S HOVER ANIMATION
+          // thumbnailHoverEffect2: 'imageScaleIn90',
+          touchAnimation: true,
+          touchAutoOpenDelay: 800,
+          
+          // DEEP LINKING
+          locationHash: false,
+
+          // VIEWER TOOLBAR CONFIG
+          viewerTools:    {
+            topLeft:    'pageCounter',
+            topRight:   'downloadButton, zoomButton, fullscreenButton, closeButton'
+          }   
+      });
+    } else {
+      $(this).nanogallery2({
+        // GALLERY AND THUMBNAIL LAYOUT
+        galleryDisplayMode: 'fullContent',
+        // gallerySorting: 'random',
+        thumbnailHeight: '250', thumbnailWidth: 'auto',
+        thumbnailAlignment: 'center',
+        thumbnailBaseGridHeight: 100,
+        thumbnailL1GutterWidth: 4,
+        thumbnailL1GutterHeight: 4,
+        thumbnailBorderHorizontal: 2,
+        thumbnailBorderVertical: 2,
+
+        // THUMBNAIL TOOLS & LABEL
+        thumbnailLabel: { display: false, position:'onBottom', hideIcons: true, titleFontSize: '1em', align: 'right', titleMultiLine:true, displayDescription: false},
+
+        // DISPLAY ANIMATION
+        thumbnailDisplayTransition: 'fadeIn',
+        thumbnailDisplayTransitionDuration: 500,
+        thumbnailDisplayInterval: 30,
+
+        // // THUMBNAIL'S HOVER ANIMATION
+        // thumbnailHoverEffect2: 'imageScaleIn90',
+        touchAnimation: true,
+        touchAutoOpenDelay: 800,
+
+        // DEEP LINKING
+        locationHash: false,
+
+        // VIEWER TOOLBAR CONFIG
+        viewerTools:    {
+          topLeft:    'pageCounter',
+          topRight:   'downloadButton, zoomButton, fullscreenButton, closeButton'
+        }
+      });
+    }
+  });
+</script>
+<!-- Math rendering -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']], displayMath: [ ['$$','$$'] ]}});
+</script>
+
+
+    </body>
+
+</html>
+
